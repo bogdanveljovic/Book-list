@@ -1,0 +1,25 @@
+*
+{ 
+    box-sizing: border-box;
+}
+body{
+    background-color: steelblue;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+
+.success, .error{
+    color:white;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success{
+    background: green;
+}
+.error{
+    background: red;
+}
