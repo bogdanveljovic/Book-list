@@ -1,2 +1,2 @@
 # Book-list
-My very first project i worked on
+My very first project I worked on
